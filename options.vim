@@ -11,3 +11,9 @@ set smartindent
 set backspace=indent,eol,start
 
 syntax on
+
+set nobackup
+set writebackup
+set noundofile
+
+set shortmess-=S
