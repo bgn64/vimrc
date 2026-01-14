@@ -24,11 +24,11 @@ nnoremap <leader>gf :LspGotoDefinition<CR>
 nnoremap <leader>gi :LspGotoImpl<CR>
 nnoremap <leader>gt :LspGotoTypeDef<CR>
 
-nnoremap <leader>pc :LspPeekDeclaration<CR>
-nnoremap <leader>pf :LspPeekDefinition<CR>
-nnoremap <leader>pi :LspPeekImpl<CR>
-nnoremap <leader>pr :LspPeekReferences<CR>
-nnoremap <leader>pt :LspPeekTypeDef<CR>
+" nnoremap <leader>pc :LspPeekDeclaration<CR>
+" nnnoremap <leader>pf :LspPeekDefinition<CR>
+" nnnoremap <leader>pi :LspPeekImpl<CR>
+" nnnoremap <leader>pr :LspPeekReferences<CR>
+" nnnoremap <leader>pt :LspPeekTypeDef<CR>
 
 nnoremap <leader>rs :LspRename<CR>
 
